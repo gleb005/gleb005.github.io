@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Montserrat';
+    src:url('../fonts/Montserrat-200.woff2')format('woff2'),
+    url('../fonts/Montserrat-200.ttf')format('truetype');
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src:url('../fonts/Montserrat-300.woff2')format('woff2'),
+    url('../fonts/Montserrat-300.ttf') format('truetype');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-400.woff2') format('woff2'),
+    url('../fonts/Montserrat-400.ttf')format('truetype');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-400.woff2') format('woff2'),
+    url('../fonts/Roboto-400.ttf') format('truetype');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-400.woff2')format('woff2'),
+    url('../fonts/Raleway-400.ttf')format('truetype');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-500.woff2')format('woff2'),
+    url('../fonts/Raleway-500.ttf')format('truetype');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-600.woff2')format('woff2'),
+    url('../fonts/Raleway-600.ttf')format('truetype');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-700.woff2')format('woff2'),
+    url('../fonts/Raleway-700.ttf')format('truetype');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-800.woff2')format('woff2'),
+    url('../fonts/Raleway-800.ttf')format('truetype');
+    font-weight: 800;
+}
